@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**joellenmchaney/joellenmchaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joellenmchaney/joellenmchaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) telegram group scraper tool
 
 Here are some ideas to get you started:
 
